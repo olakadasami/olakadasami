@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/olaks_codes" target="blank"><img src="https://img.shields.io/twitter/follow/olaks_codes?logo=twitter&style=for-the-badge" alt="olaks_codes" /></a> </p>
 
-- 🔭 I’m currently working on [AllStores](https://github.com/olakadasami/allStores.git)
+- 🔭 I’m currently working on [MovTime Movie App](https://github.com/olakadasami/mov-time)
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/olakadasami/](https://github.com/olakadasami/)
 
-- 💬 Ask me about **React, Sass**
+- 💬 Ask me about **FrontEnd Web**
 
 - 📫 How to reach me **olakadasamuel@gmail.com**
 
