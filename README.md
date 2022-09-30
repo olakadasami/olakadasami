@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/olakadasami/](https://github.com/olakadasami/)
+- 👨‍💻 All of my projects are available [here](https://github.com/olakadasami/)
+
+- 👨‍💻 My Portfolio [here](https://olakadasami-portfolio.vercel.app/)
 
 - 💬 Ask me about **FrontEnd Web**
 
