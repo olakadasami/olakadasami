@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/olaks_codes" target="blank"><img src="https://img.shields.io/twitter/follow/olaks_codes?logo=twitter&style=for-the-badge" alt="olaks_codes" /></a> </p>
 
-- 🔭 I’m currently working on [MovTime Movie App](https://github.com/olakadasami/mov-time)
+<!-- - 🔭 I’m currently working on [MovTime Movie App](https://github.com/olakadasami/mov-time) -->
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Adonis.js**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/olakadasami/)
 
 - 👨‍💻 My Portfolio [here](https://olakadasami-portfolio.vercel.app/)
 
-- 💬 Ask me about **FrontEnd Web**
+- 💬 Ask me about **Software development**
 
 - 📫 How to reach me **olakadasamuel@gmail.com**
 
